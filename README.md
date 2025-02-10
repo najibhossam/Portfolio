@@ -4,6 +4,7 @@
   <br />
   <img src="assets/img/logo2.png" alt="Portfolio Logo" width="150"/>
   <br />
+  <br>
 </div>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -78,16 +79,28 @@ Le site est entièrement responsive avec une approche mobile-first :
 - Images et contenus redimensionnables
 
 ## 🎨 Charte Graphique - Image
+
 ![Image](https://github.com/user-attachments/assets/84d2b1eb-f8cd-4644-bd0a-e9f60b93acc4)
 ![Image](https://github.com/user-attachments/assets/cb59b006-3154-431d-85d6-68ab374770b1)
 ![Image](https://github.com/user-attachments/assets/dbd9d429-ecd0-4af4-8b32-e8f8a3e83f9c)
 ![Image](https://github.com/user-attachments/assets/c734e20e-5937-47a2-b956-1e003030c61f)
 ![Image](https://github.com/user-attachments/assets/63919026-b4a6-48f4-8242-1f4c4967bd2e)
+
 ## 📋 Use Case
+
 ![Image](https://github.com/user-attachments/assets/f72a06d7-76b5-4d91-ba2d-eecaa1cde910)
+
 ## Wireframe
 
+![Image](https://github.com/user-attachments/assets/587c146b-f2fe-4a9e-989f-1bbd95e5f636)
+![Image](https://github.com/user-attachments/assets/1eefa552-1830-4508-94fe-4549713c126f)
+![Image](https://github.com/user-attachments/assets/7a3f7bac-dcb4-4f6c-a0cd-52f1c1010064)
+![Image](https://github.com/user-attachments/assets/10d08ef9-aa93-4849-bfae-19f802992738)
+![Image](https://github.com/user-attachments/assets/a1a65475-b0d1-4c16-9433-b736fffdc6f6)
+![Image](https://github.com/user-attachments/assets/37de8e1b-ad38-44d7-89ec-ec8258a8e29c)
+
 ## Maquettage
+
 ![Image](https://github.com/user-attachments/assets/2659b376-3b0d-4375-a8da-e43e35233f76)
 
 ![Image](https://github.com/user-attachments/assets/1119e454-6058-4763-a14b-0a8a07161486)
